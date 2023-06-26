@@ -11,3 +11,11 @@ font-family: Inter;
 font-weight: 700;
 
 }
+.menu-imagem{
+    width: 178px;
+height: 156px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+
+}
